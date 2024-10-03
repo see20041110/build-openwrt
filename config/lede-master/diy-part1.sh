@@ -11,5 +11,3 @@
 
 # other
 # rm -rf package/lean/{samba4,luci-app-samba4,luci-app-ttyd}
-src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git small https://github.com/kenzok8/small
